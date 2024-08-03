@@ -1,0 +1,72 @@
+export const twozo = [{
+    id: 1,
+    name: "Vijay",
+    runs: 6700,
+    highest: 128,
+},
+{
+    id: 2,
+    name: "Vairadurai",
+    runs: 4700,
+    highest: 108,
+},
+{
+    id: 3,
+    name: "NavinJo",
+    runs: 5700,
+    highest: 98,
+},
+{
+    id: 4,
+    name: "Karthik",
+    runs: 3700,
+    highest: 88,
+},
+{
+    id: 5,
+    name: "Sathish",
+    runs: 4600,
+    highest: 98,
+},{
+    id: 6,
+    name: "Arun",
+    runs: 2600,
+    highest: 67,
+},
+{
+    id: 7,
+    name: "Mass karthik",
+    runs: 5600,
+    highest: 65,
+},
+{
+    id: 8,
+    name: "Mahesh",
+    runs: 7600,
+    highest: 88,
+},
+{
+    id: 9,
+    name: "Prabhu",
+    runs: 8900,
+    highest: 98,
+},
+{
+    id: 10,
+    name: "Surenther",
+    runs: 3600,
+    highest: 66,
+},
+{
+    id: 11,
+    name: "Yuvi",
+    runs: 3600,
+    highest: 54,
+},
+{
+    id: 12,
+    name: "Pratheep sir",
+    runs: 7600,
+    highest: 78,
+},
+]
